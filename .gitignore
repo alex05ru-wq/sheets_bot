@@ -1,0 +1,5 @@
+.env
+credentials.json
+заявки_резерв.csv
+__pycache__/
+*.pyc
